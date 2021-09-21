@@ -1,0 +1,13 @@
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\bin\Debug\netcoreapp3.1\Assignment1_calculator_Martin.exe
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\bin\Debug\netcoreapp3.1\Assignment1_calculator_Martin.deps.json
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\bin\Debug\netcoreapp3.1\Assignment1_calculator_Martin.runtimeconfig.json
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\bin\Debug\netcoreapp3.1\Assignment1_calculator_Martin.runtimeconfig.dev.json
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\bin\Debug\netcoreapp3.1\Assignment1_calculator_Martin.dll
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\bin\Debug\netcoreapp3.1\Assignment1_calculator_Martin.pdb
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\obj\Debug\netcoreapp3.1\Assignment1_calculator_Martin.csprojAssemblyReference.cache
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\obj\Debug\netcoreapp3.1\Assignment1_calculator_Martin.AssemblyInfoInputs.cache
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\obj\Debug\netcoreapp3.1\Assignment1_calculator_Martin.AssemblyInfo.cs
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\obj\Debug\netcoreapp3.1\Assignment1_calculator_Martin.csproj.CoreCompileInputs.cache
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\obj\Debug\netcoreapp3.1\Assignment1_calculator_Martin.dll
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\obj\Debug\netcoreapp3.1\Assignment1_calculator_Martin.pdb
+C:\Users\Martin Johansson\source\repos\Assignment1_calculator_Martin\Assignment1_calculator_Martin\obj\Debug\netcoreapp3.1\Assignment1_calculator_Martin.genruntimeconfig.cache
